@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc53f02-eb67-4494-aa96-50bc501a94d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AIvirtualMouse/AIvirtualMouseProject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIvirtualMouse/HandTrackingModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Nova pasta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Nova pasta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIvirtualMouseProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIvirtualMouseProject.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AIvirtualMouse" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -32,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AIvirtualMouseProject.executor": "Run",
-    "Python.HandTrackingModule.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/TrabalhoPasta/pythonIA/Mediapipehands/arquivos/Nova pasta",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AIvirtualMouseProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandTrackingModule.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TrabalhoPasta/pythonIA/Mediapipehands/arquivos/IAvirtualMouse&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.HandTrackingModule">
+}</component>
+  <component name="RunManager" selected="Python.AIvirtualMouseProject">
     <configuration name="AIvirtualMouseProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IAvirtualMouse" />
       <option name="ENV_FILES" value="" />
@@ -96,8 +99,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HandTrackingModule" />
         <item itemvalue="Python.AIvirtualMouseProject" />
+        <item itemvalue="Python.HandTrackingModule" />
       </list>
     </recent_temporary>
   </component>

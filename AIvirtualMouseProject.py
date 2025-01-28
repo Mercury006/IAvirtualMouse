@@ -34,10 +34,10 @@ while True:
         #print(fingers)
 
         #4. Only index finger : moving Mode
+        cv2.rectangle(img, (frameR, frameR), (wCam-frameR,hCam-frameR), (255,0,255), 2)
         if fingers[1]==1 and fingers[2]==0:
 
             #5. Convert Coordinates
-            cv2.rectangle(img, (frameR, frameR), (wCam-))
             x3 = np.interp(x1, (0,wCam), (0,wScr))
             y3 = np.interp(y1, (0,hCam), (0,hScr))
             #6. Smoothen Values
